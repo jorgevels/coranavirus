@@ -8,7 +8,7 @@ Proyecto realizado para mostrar un mapa actualizado de las personas afectadas po
 
 ### Como Probarlo
 
-Puedes verlo [aquí](https://jorgevels.github.io/covid-19-col/) o seguir la guía sobre **Como Utilizarlo**
+Puedes verlo [aquí](https://jorgevels.github.io/coranavirus/) o seguir la guía sobre **Como Utilizarlo**
 
 ### ¿Como Utilizarlo?
 
